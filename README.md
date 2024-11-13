@@ -1,1 +1,2 @@
-Page de test pour expliquer github
+Pour pouvoir participer 
+veillez à selectionner la branche "main" ci-dessus"
