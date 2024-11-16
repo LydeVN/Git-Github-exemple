@@ -1,3 +1,1 @@
-Pour pouvoir participer 
-veillez à selectionner la branche "main" à télécharger ci-dessus" (si il y a besoin d'explication n'hésitez pas)
-à chaque fois qu'un nouvel élève veut rejoindre le projet, demandez l'autorisation pour que l'on fasse une branche perso.
+Page de test pour expliquer github Une fois que vous avez cloné ce repo sur votre machine en local (grâce à git) METTEZ VOUS DANS LA BRANCHE CLASS (commande dans votre terminal vs code pour que ce soit plus facile : git switch class). Demandez moi pour que je vous fasse une branche perso (pour chacun d'entre vous). (n'hésitez pas si il y a des questions).
